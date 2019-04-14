@@ -1,10 +1,15 @@
 # Título do projeto
 
-Um parágrafo da descrição do projeto vai aqui
+Este guia irá compor as ferramentas para ensino de Algoritmos e Programação de Computadores, onde os alunos aprendem alguma linguagem de programação sem necessidade de um conhecimento prévio.
+
+Esta página é uma coleção de exercícios progressivamente mais difíceis que são adequados para pessoas que tem interesse em aprender Lógica de Programação. Os exercícios, em sua maioria, são algorítmicos e devem/podem ser solucionados sem o uso de bibliotecas. A dificuldade dos exercícios, claro, depende da linguagem de programação que você usa, como por exemplo C, que não têm suporte integrado à listas. Alguns exemplos serão resolvidos em javaScript.
 
 ## Começando
 
-Essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Veja a implantação de notas sobre como implantar o projeto em um sistema ativo.
+Aprender a programar significa aprender a resolver problemas usando código. Conceitualmente, não é muito difícil escrever um programa que resolva um problema que você possa resolver sozinho. A habilidade que você precisa adquirir é pensar precisamente sobre como você resolve o problema e o divide em etapas tão simples que um computador pode executá-las. Encorajo-vos a resolver primeiro algumas instâncias de um problema à mão e pensar sobre o que você fez para encontrar a solução. Por exemplo, se a tarefa estiver classificando listas, classifique algumas listas curtas você mesmo. Um método razoável seria encontrar o menor elemento, anotá-lo e retirá-lo da lista original e repetir esse processo até que você tenha classificado toda a lista. Então você tem que ensinar o computador 1) como encontrar o menor elemento, 2) como escrevê-lo, 3) como atravessá-lo, e envolvê-lo em um loop. Em seguida, continue com o processo de detalhamento da tarefa até ter certeza de que você sabe como escrever o programa necessário.
+
+[![Algoritmos: Primeiro contato](https://img.youtube.com/vi/8mei6uVttho/0.jpg)](https://www.youtube.com/watch?v=8mei6uVttho)
+
 
 ### Pré-requisitos
 
