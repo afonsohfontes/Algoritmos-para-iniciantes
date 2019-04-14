@@ -23,7 +23,7 @@ Este [vídeo](https://www.youtube.com/watch?v=8mei6uVttho) é um ótimo início 
 
 ## Elementar
 
-    Write a program that prints ‘Hello World’ to the screen.
+Write a program that prints ‘Hello World’ to the screen.
     Write a program that asks the user for their name and greets them with their name.
     Modify the previous program such that only the users Alice and Bob are greeted with their names.
     Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
@@ -35,7 +35,8 @@ Este [vídeo](https://www.youtube.com/watch?v=8mei6uVttho) é um ótimo início 
     Write a program that prints the next 20 leap years.
     
 ## Listas e Strings
-    Write a function that returns the largest element in a list.
+
+Write a function that returns the largest element in a list.
     Write function that reverses a list, preferably in place.
     Write a function that checks whether an element occurs in a list.
     Write a function that returns the elements on odd positions in a list.
@@ -54,7 +55,7 @@ Este [vídeo](https://www.youtube.com/watch?v=8mei6uVttho) é um ótimo início 
     Implement the following sorting algorithms: Selection sort, Insertion sort, Merge sort, Quick sort, Stooge Sort. Check Wikipedia for descriptions.
     Implement binary search.
 
-    Write a function that takes a list of strings an prints them, one per line, in a rectangular frame. For example the list ["Hello", "World", "in", "a", "frame"] gets printed as:
+Write a function that takes a list of strings an prints them, one per line, in a rectangular frame. For example the list ["Hello", "World", "in", "a", "frame"] gets printed as:
 
     *********
     * Hello *
@@ -64,18 +65,18 @@ Este [vídeo](https://www.youtube.com/watch?v=8mei6uVttho) é um ótimo início 
     * frame *
     *********
 
-    Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “The quick brown fox” becomes “Hetay uickqay rownbay oxfay”.
+Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “The quick brown fox” becomes “Hetay uickqay rownbay oxfay”.
 
 ## Intermediate
 
-    Write a program that outputs all possibilities to put + or - or nothing between the numbers 1,2,…,9 (in this order) such that the result is 100. For example 1 + 2 + 3 - 4 + 5 + 6 + 78 + 9 = 100.
-    Write a program that takes the duration of a year (in fractional days) for an imaginary planet as an input and produces a leap-year rule that minimizes the difference to the planet’s solar year.
-    Implement a data structure for graphs that allows modification (insertion, deletion). It should be possible to store values at edges and nodes. It might be easiest to use a dictionary of (node, edgelist) to do this.
-    Write a function that generates a DOT representation of a graph.
-    Write a program that automatically generates essays for you.
+ Write a program that outputs all possibilities to put + or - or nothing between the numbers 1,2,…,9 (in this order) such that the result is 100. For example 1 + 2 + 3 - 4 + 5 + 6 + 78 + 9 = 100.
+ Write a program that takes the duration of a year (in fractional days) for an imaginary planet as an input and produces a leap-year rule that minimizes the difference to the planet’s solar year.
+ Implement a data structure for graphs that allows modification (insertion, deletion). It should be possible to store values at edges and nodes. It might be easiest to use a dictionary of (node, edgelist) to do this.
+ Write a function that generates a DOT representation of a graph.
+ Write a program that automatically generates essays for you.
         Using a sample text, create a directed (multi-)graph where the words of a text are nodes and there is a directed edge between u and v if u is followed by v in your sample text. Multiple occurrences lead to multiple edges.
         Do a random walk on this graph: Starting from an arbitrary node choose a random successor. If no successor exists, choose another random node.
-    Write a program that automatically converts English text to Morse code and vice versa.
+ Write a program that automatically converts English text to Morse code and vice versa.
     Write a program that finds the longest palindromic substring of a given string. Try to be as efficient as possible!
     Think of a good interface for a list. What operations do you typically need? You might want to investigate the list interface in your language and in some other popular languages for inspiration.
     Implement your list interface using a fixed chunk of memory, say an array of size 100. If the user wants to add more stuff to your list than fits in your memory you should produce some kind of error, for example you can throw an exception if your language supports that.
@@ -88,7 +89,7 @@ Este [vídeo](https://www.youtube.com/watch?v=8mei6uVttho) é um ótimo início 
 
 ## Advanced
 
-    Given two strings, write a program that efficiently finds the longest common subsequence.
+ Given two strings, write a program that efficiently finds the longest common subsequence.
     Given an array with numbers, write a program that efficiently answers queries of the form: “Which is the nearest larger value for the number at position i?”, where distance is the difference in array indices. For example in the array [1,4,3,2,5,7], the nearest larger value for 4 is 5. After linear time preprocessing you should be able to answer queries in constant time.
     Given two strings, write a program that outputs the shortest sequence of character insertions and deletions that turn one string into the other.
     Write a function that multiplies two matrices together. Make it as efficient as you can and compare the performance to a polished linear algebra library for your language. You might want to read about Strassen’s algorithm and the effects CPU caches have. Try out different matrix layouts and see what happens.
