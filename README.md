@@ -10,6 +10,7 @@ Aprender a programar significa aprender a resolver problemas usando código. Con
 
 [![Algoritmos: Primeiro contato](https://img.youtube.com/vi/8mei6uVttho/0.jpg)](https://www.youtube.com/watch?v=8mei6uVttho)
 
+[linkname](https://www.youtube.com/watch?v=8mei6uVttho)
 
 ### Pré-requisitos
 
