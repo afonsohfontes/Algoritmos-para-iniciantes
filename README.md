@@ -40,9 +40,9 @@ Explicar como executar os testes automatizados para este sistema
 
 Explique o que esses testes testam e por que
 
-`` `
+```
 Dê um exemplo
-`` `
+```
 
 ### E testes de estilo de codificação
 
@@ -72,7 +72,7 @@ Nós usamos [SemVer] (http://semver.org/) para controle de versão. Para as vers
 
 ## Autores
 
-* ** Billie Thompson ** - * Trabalho inicial * - [PurpleBooth] (https://github.com/PurpleBooth)
+*** Billie Thompson ** - * Trabalho inicial * - [PurpleBooth] (https://github.com/PurpleBooth)
 
 Veja também a lista de [contribuidores] (https://github.com/your/project/contributors) que participaram deste projeto.
 
