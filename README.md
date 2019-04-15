@@ -23,7 +23,7 @@ Este [vídeo](https://www.youtube.com/watch?v=8mei6uVttho) é um ótimo início 
 
 ## Input/Output
 
-###Input
+### Input
 Funções de input são funções que permitem receber dados informados pelo usuário.
 As principais funções de input são: prompt e confirm.
 
@@ -36,7 +36,7 @@ var leitura = prompt("Mensagem que será mostrada ao usuário pedindo algo","Res
 var leitura = confirm("Mensagem para perguntar se ele deseja confirmar");
  - A função confirm atribui true caso o usuário clique em "Ok" ou atribui false caso o usuário clique em "Cancelar"
 
-###Output
+### Output
 Funções de output são funções que permitem informado dados ao usuário que foram obtidos com o programa.
 As principais funções de output são: document.write e alert.
 
@@ -49,27 +49,6 @@ document.write("Mensagem a ser mostrada da seção document da página html" + v
 
 
 [Link para for](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_For/Exemplo_For.html)
-
-
-
-`` `
-
-<script>
-/*
-UTILIZAÇÃO DA ESTRUTURA DE REPETIÇÃO FOR
-Estrutura básica:
-for(CONDIÇÃO INICIAL;CONDIÇÃO FINAL; INCREMENTO/DECREMENTO)
-{
-	BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO INICIAL SEJA IGUAL A FINAL;
-}
-PROBLEMA PROPOSTO:
-FAÇA UM PROGRAMA QUE LEIA 5 NÚMEROS INTEIROS QUE DEVERÃO SER INFORMADOS PELO USUÁRIO E RETORNE O VALOR DA SOMA DOS NÚMEROS.
-*/
-//INIALIZAÇÃO DAS VARIÁVEIS:
-var variavel_acumuladora = 0;
-var numero_digitado;
-
-`` `
 
 
 
