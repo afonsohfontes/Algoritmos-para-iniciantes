@@ -23,6 +23,28 @@ Este [vídeo](https://www.youtube.com/watch?v=8mei6uVttho) é um ótimo início 
 
 ## Elementar
 
+[Link para for](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_For/Exemplo_For.html)
+
+Diga qual será o passo
+
+`` `
+<script>
+/*
+UTILIZAÇÃO DA ESTRUTURA DE REPETIÇÃO FOR
+Estrutura básica:
+for(CONDIÇÃO INICIAL;CONDIÇÃO FINAL; INCREMENTO/DECREMENTO)
+{
+	BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO INICIAL SEJA IGUAL A FINAL;
+}
+PROBLEMA PROPOSTO:
+FAÇA UM PROGRAMA QUE LEIA 5 NÚMEROS INTEIROS QUE DEVERÃO SER INFORMADOS PELO USUÁRIO E RETORNE O VALOR DA SOMA DOS NÚMEROS.
+*/
+//INIALIZAÇÃO DAS VARIÁVEIS:
+var variavel_acumuladora = 0;
+var numero_digitado;
+`` `
+
+
 Write a program that prints ‘Hello World’ to the screen.
     
 Write a program that asks the user for their name and greets them with their name.
