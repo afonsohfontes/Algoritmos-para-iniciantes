@@ -28,6 +28,7 @@ Este [vídeo](https://www.youtube.com/watch?v=8mei6uVttho) é um ótimo início 
 Diga qual será o passo
 
 `` `
+
 <script>
 /*
 UTILIZAÇÃO DA ESTRUTURA DE REPETIÇÃO FOR
@@ -42,7 +43,10 @@ FAÇA UM PROGRAMA QUE LEIA 5 NÚMEROS INTEIROS QUE DEVERÃO SER INFORMADOS PELO 
 //INIALIZAÇÃO DAS VARIÁVEIS:
 var variavel_acumuladora = 0;
 var numero_digitado;
+
 `` `
+
+
 
 
 Write a program that prints ‘Hello World’ to the screen.
