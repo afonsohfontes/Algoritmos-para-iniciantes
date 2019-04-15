@@ -29,17 +29,16 @@ As principais funções de input são: prompt e confirm.
 
 As estruturas básicas são:
 
-`` `
+`` 
 var leitura = prompt("Mensagem que será mostrada ao usuário pedindo algo","Resposta padrão"(opcional));
-`` `
+`` 
 
 
 - É importante lembrar de atribuir o retorno do prompt há alguma variável para que a informação não seja perdida.
 - A mensagem que virá do prompt será tratada como uma string. Caso queira que seja tratada como um número inteiro, é necessário o uso da função parseInt().
-`` `
+``
 var leitura = confirm("Mensagem para perguntar se ele deseja confirmar");
-`` `
-
+``
  - A função confirm atribui true caso o usuário clique em "Ok" ou atribui false caso o usuário clique em "Cancelar"
 
 ### Output
@@ -47,12 +46,26 @@ Funções de output são funções que permitem informado dados ao usuário que 
 As principais funções de output são: document.write e alert.
 
 As estruturas básicas são:
+``
 alert("Mensagem a ser mostrada ao usuário em uma janela pop up" + variável_a_ser_exibida_caso_necessário);
+``
 - O alert abrirá uma caixa pop up com a mensagem ou variável que será colocada entre os parênteses.
-
+``
 document.write("Mensagem a ser mostrada da seção document da página html" + variável_a_ser_exibida_caso_necessário);
+``
 - O document.write exibirá na parte "document" da página web a mensagem ou variável que será colocada entre os parênteses.
 
+### Questões
+1) Escreva um programa que imprima "Hello World" na tela.
+
+2) Escreva um programa que peça ao usuário seu nome e cumprimente-o com seu nome.
+
+3) Escreva um programa que leia dois números e mostre sua soma.
+
+4) Escreva um programa que leia uma temperatura em graus Celsius e exiba a
+temperatura na escala Fahrenheit.
+
+5) Escreva um programa que leia um número real e mostre o inteiro mais próximo.
 
 [Link para for](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_For/Exemplo_For.html)
 
