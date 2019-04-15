@@ -28,12 +28,16 @@ Funções de input são funções que permitem receber dados informados pelo usu
 As principais funções de input são: prompt e confirm.
 
 As estruturas básicas são:
-
+`` `
 var leitura = prompt("Mensagem que será mostrada ao usuário pedindo algo","Resposta padrão"(opcional));
+`` `
+
 - É importante lembrar de atribuir o retorno do prompt há alguma variável para que a informação não seja perdida.
 - A mensagem que virá do prompt será tratada como uma string. Caso queira que seja tratada como um número inteiro, é necessário o uso da função parseInt().
-
+`` `
 var leitura = confirm("Mensagem para perguntar se ele deseja confirmar");
+
+`` `
  - A função confirm atribui true caso o usuário clique em "Ok" ou atribui false caso o usuário clique em "Cancelar"
 
 ### Output
